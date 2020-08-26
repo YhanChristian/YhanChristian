@@ -34,8 +34,9 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 
 - Sistemas Embarcados 
 - Internet das Coisas
-- RTOS 
 - Eletrônica Digital e Analógica
+- Automação Industrial
+- Redes Industriais
 
 ###  :books: Conteúdos: Artigos, E-books e Projetos
 
@@ -43,4 +44,8 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 - [E-book: Começando com Arduino](https://drive.google.com/file/d/0B8I9__qUl-8zdnE0NzVaNmpNWkU/view?usp=sharing)
 - [E-book: Aprendendo Internet das Coisas com NodeMCU ](https://drive.google.com/file/d/1-qTT2L82itwPu3mBfE_yacCngvxedR0v/view?usp=sharing)
 - [Projetos Eletrônicos: PCBs](https://drive.google.com/drive/folders/0B8I9__qUl-8zcWktNXp2SWxzWDQ?usp=sharing)
+
+Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
