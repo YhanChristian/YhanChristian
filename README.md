@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YhanChristian/YhanChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+<img width="100%" scr="https://user-images.githubusercontent.com/11355408/91319334-a6543780-e792-11ea-9405-64611e27e92d.png"/>
+</p>
