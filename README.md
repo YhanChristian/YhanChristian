@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
 ![Untitled design](https://user-images.githubusercontent.com/11355408/91319334-a6543780-e792-11ea-9405-64611e27e92d.png)
-</p>
