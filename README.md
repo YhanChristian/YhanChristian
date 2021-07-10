@@ -46,6 +46,8 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 - [Projetos Eletrônicos: PCBs](https://drive.google.com/drive/folders/0B8I9__qUl-8zcWktNXp2SWxzWDQ?usp=sharing)
 
 
+Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
+
 <center>
 <table>
     <tr>
@@ -55,9 +57,9 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 </table>
 </center>
 
+<p align='center'>
+<img align='center' src="https://forthebadge.com/images/badges/built-with-love.svg">
+ <p/>
 
-Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
