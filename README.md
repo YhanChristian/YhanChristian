@@ -57,9 +57,6 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
 </table>
 </center>
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=YhanChristian.visitor-badge">
- <p/>
 
 <p align='center'>
 <img align='center' src="https://forthebadge.com/images/badges/built-with-love.svg">
