@@ -46,7 +46,7 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 - [Projetos Eletrônicos: PCBs](https://drive.google.com/drive/folders/0B8I9__qUl-8zcWktNXp2SWxzWDQ?usp=sharing)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YhanChristian&theme=tokyonight&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YhanChristian&hide=contribs,prs&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YhanChristian&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
 
