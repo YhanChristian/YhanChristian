@@ -45,14 +45,10 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 - [E-book: Aprendendo Internet das Coisas com NodeMCU ](https://drive.google.com/file/d/1-qTT2L82itwPu3mBfE_yacCngvxedR0v/view?usp=sharing)
 - [Projetos Eletrônicos: PCBs](https://drive.google.com/drive/folders/0B8I9__qUl-8zcWktNXp2SWxzWDQ?usp=sharing)
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhanChristian&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=YhanChristian&theme=tokyonight"/></td>
-    </tr>   
-</table>
-</center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YhanChristian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YhanChristian&theme=tokyonight&show_icons=true)
+
 
 Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
 
