@@ -59,10 +59,11 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
 
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 
+<!--
 <p align='center'>
 <img align='center' src="https://forthebadge.com/images/badges/built-with-love.svg">
  <p/>
-
+-->
 
 
 
