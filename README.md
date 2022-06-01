@@ -62,6 +62,6 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
 <img align='center' src="https://forthebadge.com/images/badges/built-with-love.svg">
  <p/>
 
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/yhanchristian/yhanchristian/blob/output/github-contribution-grid-snake.gif)
 
