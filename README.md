@@ -62,6 +62,6 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
 <img align='center' src="https://forthebadge.com/images/badges/built-with-love.svg">
  <p/>
 
+![Snake animation](https://github.com/yhanchristian/yhanchristian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/yhanchristian/yhanchristian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yhanchristian/yhanchristian/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/yhanchristian/yhanchristian/output/github-contribution-grid-snake.svg#gh-light-mode-only)
