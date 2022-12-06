@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ### :boy: Sobre mim
 
-Pós-Graduando em Controle e Automação, Engenheiro Eletricista com experiência no desenvolvimento de protótipos eletrônicos.
+Pós-Graduando em Controle Automação, Engenheiro Eletricista com experiência no desenvolvimento de projetos eletrônicos
 
-Desenvolve projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, 8051 e AVR e microcontroladores de 32 bits da família ESP.
+Desenvolve projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, 8051 e AVR e microcontroladores de 32 bits da família ESP e STM32.
 
-Trabalha na área de Planejamento de Controle de Manutenção (PCM), atuando na elaboração dos planos de manutenção preventiva, preditiva, controle de preventivas e projetos de melhoria no ramo óptico nos equipamentos dos processos de Surfaçagem, HMC e Montagem.
+Em fase de transição de carreira, saindo da área de manutenção industrial para a área de desenvolvimento de sistemas embarcados, atuamente trabalha como Desenvolvedor de Sistemas PoS (Point of Sale), utilizando a linguagem de programação C em fase de aprendizado da linguagem Java.
 
 Realiza palestras, cursos e workshops, tendo como principal abordagem hardware aberto: Arduino, NodeMCU, ESP32 e Rapsberry PI. 
 
