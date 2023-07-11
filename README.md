@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 ### :boy: Sobre mim
 
-Pós-Graduando em Controle Automação, Engenheiro Eletricista com experiência no desenvolvimento de projetos eletrônicos
+Pós-Graduado em Controle Automação, Engenheiro Eletricista com experiência no desenvolvimento de projetos eletrônicos.
 
 Desenvolve projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, 8051 e AVR e microcontroladores de 32 bits da família ESP e STM32.
 
-Em fase de transição de carreira, saindo da área de manutenção industrial para a área de desenvolvimento de sistemas embarcados, atuamente trabalha como Desenvolvedor de Sistemas PoS (Point of Sale), utilizando a linguagem de programação C em fase de aprendizado da linguagem Java.
+Atualmente trabalha como Desenvolvedor de Sistemas PoS (Point of Sale), utilizando a linguagem de programação C e Java para terminais Android.
 
-Realiza palestras, cursos e workshops, tendo como principal abordagem hardware aberto: Arduino, NodeMCU, ESP32 e Rapsberry PI. 
+Realiza palestras, cursos e workshops, tendo como principal abordagem hardware aberto: Arduino, NodeMCU, ESP32 e Rapsberry PI.
 
 ### :heartpulse: Principais Interesses / Aprendizados
 
@@ -57,7 +57,7 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
 </table>
 </center>
 
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" /> -->
 
 <!--
 <p align='center'>
