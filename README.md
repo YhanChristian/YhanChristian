@@ -47,7 +47,7 @@ Realiza palestras, cursos e workshops, tendo como principal abordagem hardware a
 
 
 Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
-
+<!--
 <center>
 <table>
     <tr>
@@ -56,7 +56,7 @@ Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar 
     </tr>   
 </table>
 </center>
-
+-->
 <!-- <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" /> -->
 
 <!--
